@@ -17,15 +17,15 @@ categories: jekyll update
 
 ## 01/06
 
-* Waren bis neustrelitz (40km)
-* Naturcamping Drewensee e.V.
+* Waren bis Campingplatz Naturfreund  27 km
+* http://www.campingplatz-naturfreund.de/ 
 
 ![erster tag](/img/01_strecke.png "Tag 1")
 
 ## 02/06
 
-* Neustrelitz nach mirow (40km)
-* Camping am Müritzarm“ oder „Naturcampingplatz C42 am Zotzensee“
+* Campingplatz Naturfreund nach mirow (51km)
+* „Naturcampingplatz C42 am Zotzensee“
 
 ![zweiter tag](/img/02_strecke.png "Tag 2")
 
