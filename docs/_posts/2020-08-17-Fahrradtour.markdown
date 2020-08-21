@@ -7,9 +7,13 @@ categories: jekyll update
 
 ## Start
 
-* Treffpunkt 09:00 am HBF?
+* Treffpunkt 09:00 am HBF
 
 ![db](/img/hinfahrt.jpeg "db")
+
+## Packliste
+
+* [Link zur Liste](https://docs.google.com/spreadsheets/d/1noEmHlXl5FeuBGT-Ck9xngLAcsjv1paN3ylb0WTWSDI)
 
 ## Strecke
 
